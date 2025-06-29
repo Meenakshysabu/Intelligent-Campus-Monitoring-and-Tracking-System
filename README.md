@@ -1,1 +1,1 @@
-# Intelligent-Campus-Monitoring-and-Tracking-System
+# Intelligent Campus Monitoring and Tracking System
