@@ -42,7 +42,7 @@
 - Logged entry/exit time automatically in the database
 
 ### 🌐 Web Dashboard  
-- **Tech Used:** PHP, MySQL  
+- **Tech Used:** PHP, MySQL, HTML 
 - Central platform for faculty and HOD interaction
 
 **Faculty Dashboard:**  
