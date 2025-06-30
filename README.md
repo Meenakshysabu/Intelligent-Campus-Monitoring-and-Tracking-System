@@ -91,3 +91,6 @@ This mini project demonstrates the practical use of AI and facial recognition to
 **This project greatly enhanced our technical and problem-solving skills by giving us hands-on experience in AI, facial recognition, and real-time system development.**
 
 ---
+## 📬 Contact
+
+🔗 [LinkedIn](www.linkedin.com/in/meenakshy-sabu-741226321)
