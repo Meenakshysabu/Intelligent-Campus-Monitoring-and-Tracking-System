@@ -93,4 +93,4 @@ This mini project demonstrates the practical use of AI and facial recognition to
 ---
 ## 📬 Contact
 
-🔗 [LinkedIn](www.linkedin.com/in/meenakshy-sabu-741226321)
+🔗 LinkedIn-www.linkedin.com/in/meenakshy-sabu-741226321
